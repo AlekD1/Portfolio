@@ -22,7 +22,7 @@ body {
 
 .avatar {
     height: 160px;
-    min-width: 160px;
+    max-width: 160px;
     border-radius: 50%;
     object-fit: cover;
     border: 6px solid rgb(255, 227, 227);
